@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "module": "commonjs",
+    "strict": true,
+    "target": "esnext"
+  }
+}
